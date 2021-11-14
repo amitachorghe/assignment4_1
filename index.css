@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    
+    color: rgb(218, 196, 196);
+    text-shadow: rgb(161, 150, 150);
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: transparent;
+    
+}
+html {
+    background-image: url(https://t3.ftcdn.net/jpg/03/56/81/64/360_F_356816480_z0oXlBsTwH19eL1tm5of6Gn7Z7Nbwx3l.jpg);
+    
+}
+label {
+    padding: 10px;
+    margin: 50px 430px;
+    border-radius: 10px;
+}
+.lab {
+    margin: 20px 800px;
+}
+.lab1 {
+    margin: 20px 100px;
+}
+    
